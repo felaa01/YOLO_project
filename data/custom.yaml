@@ -1,0 +1,7 @@
+train: Data/Train/images
+val:   Data/Valid/images
+test:  Data/Test/images
+
+nc: 6
+
+names: ['allen-keys', 'cutter', 'drill-bit', 'screwdriver', 'screws-box', 'tongs']
